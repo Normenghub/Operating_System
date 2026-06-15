@@ -1,6 +1,5 @@
 # 🧠 Memory Virtualization
 
-> 부산대학교 정보컴퓨터공학부 - Operating System (CP26044)
 
 ---
 
